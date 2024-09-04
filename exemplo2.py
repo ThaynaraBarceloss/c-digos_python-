@@ -1,5 +1,5 @@
 nome = "Thaynara Barcelos"
-end = "Rua das flores, cruzeiro do Anil"
+end = "Avenida castelo branco"
 idade = "17 anos"
 
 # print (nome, end, idade)
