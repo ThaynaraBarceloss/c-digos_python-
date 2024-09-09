@@ -8,4 +8,4 @@ if valorA > valorB and valorB > valorC:
 elif valorB > valorC> valorA:
         print(f"Ordem:{valorA}, {valorC}, {valorB}")
 elif valorC > valorA > valorB:
-        print("Ordem:{valorB}, {valorA}, {valorC}")
+        print(f"Ordem:{valorB}, {valorA}, {valorC}")
